@@ -1,0 +1,93 @@
+html,{
+  height: 100%;
+}
+body{
+  background-image: url(possivel-fundo-nove.png);
+  color: white;
+  font-size: 22px;
+  text-align: justify;
+}
+.borda{
+  margin: 3%;
+  border: 2px solid white;
+  padding: 2%;
+}
+em{
+  color: grey;
+  display: block;
+  text-align: right;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+#topo{
+  text-align: center;
+}
+#img-um{
+  width: 300px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+h1{
+  display: inline;
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+}
+.lista{
+  background-color: rgba(255, 255, 255, 0.7);
+  color: black;
+  border: 3px solid white;
+  border-radius: 25px;
+  margin: 5%;
+  padding: 1%;  y
+}
+#indice{
+  width: 350px;
+}
+#musicas{
+  width: 600px;
+}
+#livros{
+  width: 400px;
+}
+#livros-br{
+  width: 400px;
+}
+#filmes{
+  width: 500px;
+}
+a:link{
+  color: blue;
+}
+a:visited{
+  color: black;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+a:active{
+  color: gray;
+}
+.fotos{
+  height: 400px;
+  margin: 1%;
+  border-width: 6px;
+  border-style: double;
+  border-color: white;
+  padding: 0.5%;
+}
+iframe{
+  float: right;
+  margin: 3%;
+  border: 2px solid white;
+  padding: 1%;
+}
+#voltar{
+  color: pink;
+}
